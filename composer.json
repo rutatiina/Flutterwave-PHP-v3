@@ -3,7 +3,7 @@
     "description": "A simple SDK for integrating to Flutterwave's Rave payment",
     "type": "library",
     "keywords": ["rave", "flutterwave", "payment", "transfers", "africa"],
-    "homepage": "https://github.com/Flutterwave/Flutterwave-PHP-v3",
+    "homepage": "https://github.com/rutatiina/Flutterwave-PHP-v3",
     "autoload": {
         "psr-4": {
             "Flutterwave\\": "library/"
